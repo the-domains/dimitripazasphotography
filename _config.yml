@@ -1,4 +1,4 @@
-name: DimitriPazas
+name: Dimitripazasphotography
 favicon: null
 layout_spectrum: 0.7534008231014013
 typography_spectrum: 0.8230869884137064
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#B8B42D'
-    - '#697A21'
-    - '#FFFCE8'
-    - '#3E363F'
-    - '#DD403A'
-  brandStrength: 0.5625
+    - '#fef2fe'
+    - '#5b565c'
+    - '#feae00'
+    - '#003586'
+    - '#d0c5d1'
+  brandStrength: 0
   lightness: 0.5625
-  saturation: 0.36727858893573284
+  saturation: 0.5625
   rhythmicContrast: 0.75
 purpose: []
