@@ -1,4 +1,4 @@
-name: Dimitripazasphotography
+name: Dimitri Pazas
 favicon: null
 layout_spectrum: 0.7534008231014013
 typography_spectrum: 0.8230869884137064
@@ -21,8 +21,8 @@ color:
     - '#FFFCE8'
     - '#3E363F'
     - '#DD403A'
-  brandStrength: 0.2474836497567594
-  lightness: 0.47355853230692446
+  brandStrength: 0.5625
+  lightness: 0.5625
   saturation: 0.36727858893573284
-  rhythmicContrast: 0.14334690710529685
+  rhythmicContrast: 0.75
 purpose: []
