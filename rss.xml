@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Dimitripazasphotography]]></title>
+        <description><![CDATA[Dimitripazasphotography]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 09 Feb 2016 18:31:31 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Today's edits]]></title>
+            <description><![CDATA[<article><h1>Today's edits</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2eb70301d67d8e3e7085e20592f41adeb3b2ec00.jpg"></article>]]></description>
+            <link>undefinedtodays-edits/index.html</link>
+            <guid isPermaLink="false">7c0b4786-1910-4c24-9d6c-a6ee46d8f1ea</guid>
+            <pubDate>Tue, 09 Feb 2016 18:31:15 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
